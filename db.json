@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "productName": "Banana Sunpride",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 15500,
+      "comment": "New",
+      "date": "2022-06-25T17:00:00.000Z",
+      "id": 1
+    }
+  ]
+}
